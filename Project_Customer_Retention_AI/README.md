@@ -63,7 +63,7 @@ graph LR
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](screenshots/main_dashboard.png)
 
 ---
 
